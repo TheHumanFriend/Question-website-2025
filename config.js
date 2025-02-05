@@ -27,7 +27,7 @@ const CONFIG = {
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "I don't love you, I LOOOOVE you! 💚"           // Secret hover message
         },
-         third: {
+         second: {
             text: "Do you really love me?",                             // The big question!
             yesBtn: "Yes, really!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
@@ -37,13 +37,13 @@ const CONFIG = {
             yesBtn: "REEAALLY!",                                             // Text for "Yes" button
             noBtn: "Maybe"                                                 // Text for "No" button
         },
-        second: {
+        fourth: {
             text: "How much do you love me? 😏",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next 💚"                                         // Text for the next button
         },
 
-        third: {
+        fifth: {
             text: "If thats true.. would you be my boyfriend? 💚", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
